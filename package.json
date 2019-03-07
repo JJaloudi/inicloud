@@ -1,0 +1,16 @@
+{
+  "name": "inicloud",
+  "version": "1.0.0",
+  "description": "Database for players ini files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordan Jaloudi, Nelson Pulling, Jade Aulet",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "graphql": "^14.1.1",
+    "react": "^16.8.4"
+  }
+}
